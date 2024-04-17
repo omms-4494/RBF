@@ -2,6 +2,6 @@ This repository contains the final code used to generate the simulations and fig
 
 The standard multilevel implementations for 1-D and 2-D are included in ```rbf.py```.
 
-The modified implementations (namely the efficient/timed implementations as used in Chapter 4 Section 1) are included in the ```rbf_apaptive.py```.
+The modified implementations (namely the efficient/timed implementations as used in Chapter 4 Section 1 and the skewed c-set implementation as used in Chapter 6) are included in the ```rbf_apaptive.py```.
 
 The figures themselves, organized by chapter, are included in the notebook ```dis_figures.ipynb```.
